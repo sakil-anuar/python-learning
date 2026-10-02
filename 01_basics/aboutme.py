@@ -1,0 +1,7 @@
+print("My name is sakil anuar")
+print("Age:25 years old")
+print("Disvision:Rajshahi")
+print("District:Chapai nawabgonj")
+print("Education:Bsc in cse at american international university")
+print("Current Location:Bashundhara rasidantial area")
+print("Aim: I wanna be a data engineer")
